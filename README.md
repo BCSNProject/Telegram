@@ -2,7 +2,7 @@
 
 I want to build a decentralized application based on tg
 
-## Telegram messenger for Android   by bcgame
+## Telegram messenger for Android   by bcgame studio
 
 - 1: ADD WebGL Runtime
 - 2: Support  chat symmetric encryption by RSA、AES、DES、MD5 ...
